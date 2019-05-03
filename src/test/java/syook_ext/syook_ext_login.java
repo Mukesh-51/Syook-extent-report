@@ -58,6 +58,7 @@ public class syook_ext_login {
 		} catch (Error e) {
 			// verificationErrors.append(e.toString());
 			test.log(LogStatus.PASS, "Logged in with invalid cred!!!!!!!!");
+			//Aman asked for change
 			// test.log(Status.FAIL, "Login Failed..!!");
 		}
 
